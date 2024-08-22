@@ -6,7 +6,8 @@ import (
 	"time"
 
 	"github.com/fatih/color"
-	desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1"
+	//desc "github.com/vl-kazakov/microservices-cource/grpc"
+	//desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )
