@@ -7,10 +7,10 @@ import (
 	"net"
 
 	"github.com/brianvoe/gofakeit"
+	desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	"google.golang.org/protobuf/types/known/timestamppb"
-	//desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1"
 )
 
 const grpcPort = 50051
