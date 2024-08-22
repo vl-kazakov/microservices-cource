@@ -9,7 +9,7 @@ import (
 	//https://github.com/vl-kazakov/microservices-cource.git
 
 	"github.com/brianvoe/gofakeit"
-	desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1"
+	desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1/api/note_v1"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	"google.golang.org/protobuf/types/known/timestamppb"
