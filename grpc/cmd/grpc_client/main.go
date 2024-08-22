@@ -5,8 +5,8 @@ import (
 	"log"
 	"time"
 
+	"github.com/fatih/color"
 	desc "github.com/vl-kazakov/microservices-cource/grpc/pkg/note_v1"
-	//"github.com/fatih/color"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )
